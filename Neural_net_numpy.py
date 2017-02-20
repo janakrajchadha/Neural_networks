@@ -4,7 +4,7 @@ Created on Mon Feb 20 23:11:17 2017
 
 @author: Janak
 """
-
+#A simple program for a 3 layer neural network using only numpy as a dependency
 from numpy import exp, array, random, dot
 
 #class to create neuron layers for the network
